@@ -1,0 +1,13 @@
+{
+  "name": "security-skills",
+  "description": "Security analysis skills for Claude Code",
+  "owner": { "name": "Carlos" },
+  "plugins": [
+    {
+      "name": "security-skills",
+      "source": "./",
+      "description": "Security analysis skills for Claude Code: Joern CPG analysis, pentest methodologies",
+      "version": "0.1.0"
+    }
+  ]
+}
