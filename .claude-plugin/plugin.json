@@ -1,9 +1,9 @@
 {
   "name": "security-skills",
-  "version": "0.1.0",
-  "description": "Security analysis skills for Claude Code: Joern CPG analysis, pentest methodologies",
+  "version": "0.2.0",
+  "description": "Dev security skills for Claude Code: code analysis, vulnerability detection, pentest methodologies",
   "author": { "name": "carlos" },
   "repository": "https://github.com/BlockSecCA/security-skills",
   "license": "MIT",
-  "keywords": ["security", "joern", "pentest", "code-analysis", "cpg"]
+  "keywords": ["security", "dev-security", "joern", "pentest", "code-analysis", "cpg", "sast"]
 }

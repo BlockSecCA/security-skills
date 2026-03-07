@@ -1,6 +1,6 @@
 # security-skills
 
-Claude Code plugin for security analysis: Joern CPG analysis and pentest methodologies.
+Dev security skills for Claude Code: code analysis, vulnerability detection, and pentest methodologies.
 
 ## Install
 

@@ -4,7 +4,9 @@
 
 ## Purpose
 
-Claude Code plugin for security analysis. Skills for Joern CPG-based code security analysis, with future pentest methodology skills.
+Claude Code plugin for **dev security** — tools and methodologies for finding vulnerabilities in code. Includes Joern CPG analysis, with future pentest methodology skills (injection, XSS, auth, authz, SSRF, recon).
+
+This is NOT ops security (secrets management, credential handling). Those concerns live in workspace toolkits (ops-toolkit, threads-toolkit).
 
 ## Type
 
@@ -35,7 +37,8 @@ claude plugin install security-skills@security-skills --scope user
 
 - Edit skills here, validate with `claude plugin validate .`
 - joern-analysis source of truth is `~/public/joern-mcp/.claude/skills/joern-analysis/SKILL.md` — copy here after changes
-- Pentest skills graduate from `~/code/pentest-playbooks/` when complete
+- Pentest skills are developed in `~/code/pentest-playbooks/` and graduate here as SKILL.md files when complete
+- This is a PUBLIC plugin — no secrets, no internal references, no machine-specific paths
 
 ## Practices
 
