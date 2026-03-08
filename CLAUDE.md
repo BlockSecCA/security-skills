@@ -37,7 +37,7 @@ claude plugin install security-skills@security-skills --scope user
 
 - Edit skills here, validate with `claude plugin validate .`
 - joern-analysis source of truth is `~/public/joern-mcp/.claude/skills/joern-analysis/SKILL.md` — copy here after changes
-- Pentest skills are developed in `~/code/pentest-playbooks/` and graduate here as SKILL.md files when complete
+- Pentest skills are developed in `~/private/pentest-playbooks/` and graduate here as SKILL.md files when complete
 - This is a PUBLIC plugin — no secrets, no internal references, no machine-specific paths
 
 ## Practices
